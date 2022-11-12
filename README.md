@@ -16,3 +16,6 @@ Repositories are used to manage query and command executions against the databas
 Models are code representations of the objects used in the logic for ByteLoop. 
 Often, models correlate to database entities. 
 
+# Architecture 
+Overall ByteLoop architecture diagram 
+![image](https://user-images.githubusercontent.com/118035594/201457295-9a17d427-9639-4f92-aee2-6c311b1bf6da.png)
